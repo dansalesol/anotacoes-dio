@@ -6,7 +6,7 @@ Imagine um reporter que escreve um artigo. Inicialmente ele faz um rascunho de u
 
 Imagine isso no contexto de programadores e desenvolvimento de software. Manter somente o estado do arquivo não é suficiente, você tem que manter informações específicas sobre esse arquivo, distribuidas em pastas diferentes e aplicações diferentes. Como desenvolvedores temos "editores" que são muito exigentes, os interpretadores de código. Um único erro em uma virgula e o editor vai apontar aquela falha e vai pedir uma correção, nova versão ou alterações naquele documento.
 
-!(1)[https://github.com/dansalesol/anotacoes-dio/blob/main/1.png]
+![1](https://github.com/dansalesol/anotacoes-dio/blob/main/1.png)
 
 O Git foi criado em 2005. Ele é um sistema de versionamento de código distriuído. Foi criado por Linus Torvalds o principal colaborador para criação do Linux. O Kernel de um SO é um sistema com centenas de milhares de linhas de código. Linus desenvolveu o Linux de forma colaborativa. Software não é feito se não for de forma colaborativa. Não é “one man job”, ou seja, não é um trabalho para um homem só e sim feito de forma colaborativa. Com Linux não foi diferente, que também foi feito de forma colaborativa, por uma equipe distribuída no mundo inteiro. Linus precisava de um sistema que “versionasse”, criasse versões do trabalho que ele estava executando com o Linux e fosse complexo o suficiente de modo que suportasse pessoas do mundo inteiro trabalhando, as vezes no mesmo arquivo e alterando a mesma linha. É isso que o Git soluciona. Ele é um software de versionamento de código que nos ajuda a criar e monitorar diferentes versões do nosso código dentro de nossa máquina.
 
