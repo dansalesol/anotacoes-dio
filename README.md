@@ -11,14 +11,12 @@ Alguns módulos foram feitos anteriormente em outros bootcamps, sendo assim ter�
 
    * Introdução à lógica e à programação
 
-     * [Entendendo]: https://github.com/dansalesol/anotacoes-dio/blob/main/Anotacoes/anotacoes1.md
-
-       
+     * [Entendendo o que é Git e sua importância](https://github.com/dansalesol/anotacoes-dio/blob/main/Anotacoes/anotacoes1.md)
 
      * O que são algoritmos e pseudocódigo
 
      * Aprendendo fluxograma, variáveis e constantes 
-     
+
        
 
 2. Aprenda-o-que-sao-Estrutura-de-Dados-e-Algoritmos
