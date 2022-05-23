@@ -1,4 +1,4 @@
-# Anotações do curso da DIO (Android Developer)
+# Anotações do curso DIO (Android Developer)
 
 Aqui estão algumas anotações dos módulos. Os assuntos estão organizados em listas e basta clicar no assunto para abrir o arquivo correspondente.
 Alguns módulos foram feitos anteriormente em outros bootcamps, sendo assim terão que ser assistidos novamente e ter seus arquivos gerados posteriormente. Para esses módulos eu coloquei :x: e para os módulos que gerei anotaçôes :heavy_check_mark: .  Para as anotações que possuo em outro formato mas ainda não subi para o GitHub (subirei em breve) eu utilizei o símbolo :pencil2: .
