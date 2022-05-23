@@ -1,7 +1,7 @@
 # Anotações do curso da DIO (Android Developer)
 
 Aqui estão algumas anotações dos módulos. Os assuntos estão organizados em listas e basta clicar no assunto para abrir o arquivo correspondente.
-Alguns módulos foram feitos anteriormente em outros bootcamps, sendo assim terão que ser assistidos novamente e ter seus arquivos gerados posteriormente. Para esses módulos eu coloquei :x: e para os módulos que gerei anotaçôes :heavy_check_mark: .  Para as anotações que possuo em outro formato mas ainda não subi para o GitHub (serão em breve) eu utilizei o símbolo :pencil2: .
+Alguns módulos foram feitos anteriormente em outros bootcamps, sendo assim terão que ser assistidos novamente e ter seus arquivos gerados posteriormente. Para esses módulos eu coloquei :x: e para os módulos que gerei anotaçôes :heavy_check_mark: .  Para as anotações que possuo em outro formato mas ainda não subi para o GitHub (subirei em breve) eu utilizei o símbolo :pencil2: .
 
 1. Lógica de Programacao Essencial :x:
 
@@ -53,15 +53,15 @@ Alguns módulos foram feitos anteriormente em outros bootcamps, sendo assim ter�
    * Entendendo como o Git funciona por baixo dos panos
      * [Tópicos fundamentais para entender o funcionamento do Git](https://github.com/dansalesol/anotacoes-dio/blob/main/Anotacoes/anotacoes4.md)
      * [Objetos internos do Git](https://github.com/dansalesol/anotacoes-dio/blob/main/Anotacoes/anotacoes5.md)
-     * [Chave SSH e Token](https://github.com/dansalesol/anotacoes-dio/blob/main/Anotacoes/anotacoes6.md)
+     * [Chave SSH e Token](https://github.com/dansalesol/anotacoes-dio/blob/main/Anotacoes/anotacoes5_1.md)
    * Primeiros comandos com Git
-     * [Iniciando o Git e criando um commit](https://github.com/dansalesol/anotacoes-dio/blob/main/Anotacoes/anotacoes7.md)
+     * [Iniciando o Git e criando um commit](https://github.com/dansalesol/anotacoes-dio/blob/main/Anotacoes/anotacoes6.md)
    * Ciclo de vida dos arquivos no Git
-     * [Passo a passo no ciclo de vida](https://github.com/dansalesol/anotacoes-dio/blob/main/Anotacoes/anotacoes8.md)
+     * [Passo a passo no ciclo de vida](https://github.com/dansalesol/anotacoes-dio/blob/main/Anotacoes/anotacoes7.md)
    * Introdução ao GitHub
-     * [Trabalhando com o GitHub](https://github.com/dansalesol/anotacoes-dio/blob/main/Anotacoes/anotacoes9.md)
+     * [Trabalhando com o GitHub](https://github.com/dansalesol/anotacoes-dio/blob/main/Anotacoes/anotacoes8.md)
    * Resolvendo conflitos		
-     * [Como os conflitos acontecem no GitHub e como resolvê-los](https://github.com/dansalesol/anotacoes-dio/blob/main/Anotacoes/anotacoes10.md)
+     * [Como os conflitos acontecem no GitHub e como resolvê-los](https://github.com/dansalesol/anotacoes-dio/blob/main/Anotacoes/anotacoes9.md)
 
    
 
@@ -69,7 +69,7 @@ Alguns módulos foram feitos anteriormente em outros bootcamps, sendo assim ter�
 
    * Primeiros conceitos sobre Branches
 
-     * [Introdução ao curso]()
+     * [Introdução ao curso](https://github.com/dansalesol/anotacoes-dio/blob/main/Anotacoes/anotacoes10.md)
      * [O que são branches]()
      * [Entendendo na prática sobre branches]()
      * [Guiando-se nas branches com a tag HEAD]()
