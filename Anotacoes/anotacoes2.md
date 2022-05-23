@@ -1,6 +1,6 @@
-## Navegação básica no terminal & instalação
+# Navegação básica no terminal & instalação
 
-**GUI X CLI**
+## **GUI X CLI**
 
 A maioria dos software tem uma interface gráfica ou GUI(graphic user interface) para sua utilização. A forma que vamos interagir com o Git e consequentemente a forma como o seu design foi feito, será por meio de uma CLI(command line interface). Hoje em dia temos softwares que pegam o Git e acrescentam a ele uma GUI.
 

@@ -1,4 +1,4 @@
-## Entendendo como o Git funciona "por baixo dos panos"
+# Entendendo como o Git funciona "por baixo dos panos"
 
 • SHA1
 • Objetos fundamentais

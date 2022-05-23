@@ -1,4 +1,4 @@
-## Por quê?
+# Por quê?
 
 Sempre que estamos aprendendo uma tecnologia nova é bom respondermos as seguintes perguntas: Porque eu estou aprendendo essa tecnologia? Porque essa tecnologia se faz relevante em minha carreira?
 

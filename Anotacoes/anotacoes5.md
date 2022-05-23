@@ -1,12 +1,8 @@
-## BLOBS
-
-## TREES
-
-## COMMITS
+# BLOBS, TREES e COMMITS
 
 São os 3 tipos básicos de objetos no git responsáveis pelo versionamento do nosso código.
 
-### **BLOBS**
+## **BLOBS**
 
 ```sh
 echo 'conteudo' | git hash-object --stdin
@@ -36,9 +32,7 @@ echo -e 'blob 9\0conteudo' | openssl sha1
 
 Passando os metadados o SHA é identico ao gerado pelo método git. Podemos compreender que o git armazena metadados dentro dos objetos.
 
-*(Vide exemplos VM)
-
-**TREES**
+## **TREES**
 
 As TREEs armazenam BLOBs. A árvore também contém metadados. Ela contém \0, aponta para um blog que por sua vez tem um sha1. Ela também guarda o nome desse arquivo. O blog não guarda o nome do arquivo, ele só guarda o SHA do arquivo e só. O Blob é o bloco básico de composição. A árvore vai ser responsável por montar toda a estrutura de ondem que estão localizados esses arquivos. As árvores podem apontar tanto para blobs (que são arquivos) ou outras árvores. Isso é assim porque os diretórios dentro de um SO podem conter outros diretórios, sendo assim faz sentido que o git use um tipo de objeto recursivo que são as árvores. Sendo assim uma árvore pode aponter para outra árvore da mesma forma que um diretório pode ter outro diretório dentro. Por sua vez, a árvore tem um SHA1 desse metadado.
 
@@ -52,7 +46,7 @@ Abaixo vemos o gráfico que mostra que as árvores contém a informação de qua
 
 Fonte: https://git-scm.com/
 
-**COMMITS**
+## **COMMITS**
 
 O objeto mais importante de todos:
 

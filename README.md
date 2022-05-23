@@ -71,7 +71,7 @@ Alguns módulos foram feitos anteriormente em outros bootcamps, sendo assim ter�
 
      * [Introdução ao curso]()
      * [O que são branches]()
-     * [Entendendo na prática sobre branches}()
+     * [Entendendo na prática sobre branches]()
      * [Guiando-se nas branches com a tag HEAD]()
      * [Comando checkout e merge]()
 
