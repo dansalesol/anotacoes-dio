@@ -1,7 +1,7 @@
 # Anotações do curso da DIO (Android Developer)
 
 Aqui estão algumas anotações dos módulos. Os assuntos estão organizados em listas e basta clicar no assunto para abrir o arquivo correspondente.
-Alguns módulos foram feitos anteriormente em outros bootcamps, sendo assim terão que ser assistidos novamente e ter seus arquivos gerados posteriormente. Para esses módulos eu coloquei :x: e para os módulos que gerei anotaçôes :heavy_check_mark: .
+Alguns módulos foram feitos anteriormente em outros bootcamps, sendo assim terão que ser assistidos novamente e ter seus arquivos gerados posteriormente. Para esses módulos eu coloquei :x: e para os módulos que gerei anotaçôes :heavy_check_mark: .  Para as anotações que possuo em outro formato mas ainda não subi para o GitHub (serão em breve) eu utilizei o símbolo :pencil2: .
 
 1. Lógica de Programacao Essencial :x:
 
@@ -46,26 +46,26 @@ Alguns módulos foram feitos anteriormente em outros bootcamps, sendo assim ter�
 3. Introdução ao Git e ao GitHub :heavy_check_mark:
 
    * Introdução ao Git
-     * [Entendendo o que é Git e sua importância]()
+     * [Entendendo o que é Git e sua importância](https://github.com/dansalesol/anotacoes-dio/blob/main/Anotacoes/anotacoes1.md)
    * Navegação via command line interface e instalação
-     * [Comandos básicos para um bom desempenho no terminal]()
-     * [Realizando a instalação do GIT]()
+     * [Comandos básicos para um bom desempenho no terminal](https://github.com/dansalesol/anotacoes-dio/blob/main/Anotacoes/anotacoes2.md)
+     * [Realizando a instalação do GIT](https://github.com/dansalesol/anotacoes-dio/blob/main/Anotacoes/anotacoes3.md)
    * Entendendo como o Git funciona por baixo dos panos
-     * [Tópicos fundamentais para entender o funcionamento do Git]()
-     * [Objetos internos do Git]()
-     * [Chave SSH e Token]()
+     * [Tópicos fundamentais para entender o funcionamento do Git](https://github.com/dansalesol/anotacoes-dio/blob/main/Anotacoes/anotacoes4.md)
+     * [Objetos internos do Git](https://github.com/dansalesol/anotacoes-dio/blob/main/Anotacoes/anotacoes5.md)
+     * [Chave SSH e Token](https://github.com/dansalesol/anotacoes-dio/blob/main/Anotacoes/anotacoes6.md)
    * Primeiros comandos com Git
-     * [Iniciando o Git e criando um commit]()
+     * [Iniciando o Git e criando um commit](https://github.com/dansalesol/anotacoes-dio/blob/main/Anotacoes/anotacoes7.md)
    * Ciclo de vida dos arquivos no Git
-     * [Passo a passo no ciclo de vida]()
+     * [Passo a passo no ciclo de vida](https://github.com/dansalesol/anotacoes-dio/blob/main/Anotacoes/anotacoes8.md)
    * Introdução ao GitHub
-     * [Trabalhando com o GitHub]()
+     * [Trabalhando com o GitHub](https://github.com/dansalesol/anotacoes-dio/blob/main/Anotacoes/anotacoes9.md)
    * Resolvendo conflitos		
-     * [Como os conflitos acontecem no GitHub e como resolvê-los]()
+     * [Como os conflitos acontecem no GitHub e como resolvê-los](https://github.com/dansalesol/anotacoes-dio/blob/main/Anotacoes/anotacoes10.md)
 
    
 
-4. Trabalhando com Branches no GitHub :heavy_check_mark:
+4. Trabalhando com Branches no GitHub :pencil2:
 
    * Primeiros conceitos sobre Branches
 
@@ -95,7 +95,7 @@ Alguns módulos foram feitos anteriormente em outros bootcamps, sendo assim ter�
 
      
 
-5. Projetos ágeis com SCRUM :heavy_check_mark:
+5. Projetos ágeis com SCRUM :pencil2:
 
    * Introdução ao SCRUM
 
@@ -117,7 +117,7 @@ Alguns módulos foram feitos anteriormente em outros bootcamps, sendo assim ter�
 
      
 
-6. Pensamento Computacional :heavy_check_mark:
+6. Pensamento Computacional :pencil2:
 
    * Pensamento Computacional
 
